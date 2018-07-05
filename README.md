@@ -1,10 +1,10 @@
 
 # react-post
-'create-react-app'으로 생성되었음.
-https://jsonplaceholder.typicode.com/ 에서 Post, Comment 정보를 받아와서 화면에 띄워주는 React 프로젝트.
-Ajax 비동기 작업처리 연습.
+React App을 쉽게 제작할 수 있게 해주는 'create-react-app'을 이용해서 프로젝트를 생성함. https://jsonplaceholder.typicode.com/ 에서 Post, Comment 정보를 받아와서 화면에 띄워주는 React 프로젝트. Ajax 비동기 작업처리 연습.
 
-velopert님의 [포스팅](https://velopert.com/2597)을 참고. ~~(거의 그대로 따라함;)~~
+*velopert님의 [포스팅](https://velopert.com/2597)을 참고. ~~(거의 그대로 따라함;)~~*
+
+---
 
 # React에서의 Ajax 요청
 ## Ajax
